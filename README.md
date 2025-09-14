@@ -73,3 +73,18 @@ Hi, I'm *Madhu* — a passionate developer who loves building impactful software
 </details>
 
 ---
+
+### 🧑‍💻 Coding 
+
+  <a href="https://leetcode.com/u/madhusri_2004/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/22a31a4201" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/madhusri_2004" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+---
